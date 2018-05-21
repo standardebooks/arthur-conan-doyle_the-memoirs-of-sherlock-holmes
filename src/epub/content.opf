@@ -36,40 +36,50 @@
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/834</meta>
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/834</meta>
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/834</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Mystery</meta>
+		<dc:description id="description">The world’s first consulting detective and his companion investigate further crimes and mysteries, culminating in a life-or-death struggle with an evil nemesis.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
-			LONGDESCRIPTION
-		]]></meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;The Memoirs of Sherlock Holmes&lt;/i&gt;, published in 1894, is the second collection of Sherlock Holmes stories published in book form. All of the stories included in the collection previously appeared in &lt;i&gt;The Strand Magazine&lt;/i&gt; between 1892 and 1893. They purport to be the accounts given by Dr. John Watson of the more remarkable cases in which his friend Mr. Sherlock Holmes becomes involved in his role as a consulting detective.&lt;/p&gt;
+			&lt;p&gt;This collection has several memorable features. The first British edition omitted the story “The Adventure of the Cardboard Box” which appeared in &lt;i&gt;The Strand&lt;/i&gt; in 1893. This story did appear in the very first American edition of the collection, immediately following “Silver Blaze”, but it was quickly replaced by a revised edition which omitted it. Apparently these omissions were at the specific request of the author, who was concerned that its inclusion of the theme of adultery would make it unsuitable for younger readers. The story was, however, eventually included in the later collection &lt;i&gt;His Last Bow&lt;/i&gt;, but it is out of chronological position there. In this Standard Ebooks edition (as in most modern British editions), we have included this story to restore it to its correct chronological place in the Holmes canon.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Memoirs of Sherlock Holmes&lt;/i&gt; is also notable because by this time Doyle had tired of the Holmes character and decided to kill him off, so that  this was intended to be the last Holmes collection ever to be published. It contains several of the best-known Holmes stories, including “Silver Blaze”; “The Musgrave Ritual”; “The Greek Interpreter”, which introduces Sherlock’s brother Mycroft; and of course “The Final Problem” in which Holmes struggles with his nemesis Professor Moriarty.&lt;/p&gt;
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/834</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<dc:source>https://en.wikisource.org/wiki/The_Adventure_of_the_Cardboard_Box</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/The_Memoirs_of_Sherlock_Holmes/The_Resident_Patient</dc:source>
+		<dc:source>https://archive.org/details/memoirsofsherloc00doylrich</dc:source>
+		<dc:source>https://archive.org/details/hislastbowaremi01doylgoog</dc:source>
+		<meta property="se:production-notes">This edition includes “The Adventure of the Cardboard Box”, which was taken from a separate Gutenberg transcription. Texts at Wikisource were used to confirm the original magazine text of the start of this story and that of “The Resident Patient”, as the latter included a passage from the former when published in the book collection. / In “The Gloria Scott”, please do not allow modernize-spelling to concatenate ‘fly-paper’ into a single word, as this wrecks the secret code.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Memoirs_of_Sherlock_Holmes</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-conan-doyle_the-memoirs-of-sherlock-holmes</meta>
 		<dc:creator id="author">Arthur Conan Doyle</dc:creator>
-		<meta property="file-as" refines="#author">AUTHORSORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHORFULLNAME</meta>
+		<meta property="file-as" refines="#author">Doyle, Arthur Conan</meta>
+		<meta property="se:name.person.full-name" refines="#author">Sir Arthur Ignatius Conan Doyle</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Arthur_Conan_Doyle</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79082292</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVERARTISTWIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVERARTISTNACOAFLINK</meta>
+		<dc:contributor id="artist">Joseph Mallord William Turner</dc:contributor>
+		<meta property="file-as" refines="#artist">Turner, Joseph Mallord William</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/J._M._W._Turner</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79060712</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Angela M. Cable</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Cable, Angela M.</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBERSORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
+		<dc:contributor id="transcriber-3">David Brannan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Brannan, David</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://rightword.com.au/david.php</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -86,12 +96,36 @@
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/silver-blaze.xhtml" id="silver-blaze.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-cardboard-box.xhtml" id="the-cardboard-box.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-crooked-man.xhtml" id="the-crooked-man.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-final-problem.xhtml" id="the-final-problem.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-gloria-scott.xhtml" id="the-gloria-scott.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-greek-interpreter.xhtml" id="the-greek-interpreter.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-musgrave-ritual.xhtml" id="the-musgrave-ritual.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-naval-treaty.xhtml" id="the-naval-treaty.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-reigate-puzzle.xhtml" id="the-reigate-puzzle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-resident-patient.xhtml" id="the-resident-patient.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-stock-brokers-clerk.xhtml" id="the-stock-brokers-clerk.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-yellow-face.xhtml" id="the-yellow-face.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="silver-blaze.xhtml"/>
+		<itemref idref="the-cardboard-box.xhtml"/>
+		<itemref idref="the-yellow-face.xhtml"/>
+		<itemref idref="the-stock-brokers-clerk.xhtml"/>
+		<itemref idref="the-gloria-scott.xhtml"/>
+		<itemref idref="the-musgrave-ritual.xhtml"/>
+		<itemref idref="the-reigate-puzzle.xhtml"/>
+		<itemref idref="the-crooked-man.xhtml"/>
+		<itemref idref="the-resident-patient.xhtml"/>
+		<itemref idref="the-greek-interpreter.xhtml"/>
+		<itemref idref="the-naval-treaty.xhtml"/>
+		<itemref idref="the-final-problem.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
