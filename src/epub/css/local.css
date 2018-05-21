@@ -8,3 +8,40 @@ abbr.name{
 abbr.initialism{
 	white-space: nowrap;
 }
+
+abbr.compass{
+	white-space: nowrap;
+}
+
+[epub|type~="se:letter.dateline"]{
+	margin-top: 1em;
+	text-align: right;
+	font-style: italic;
+}
+
+[epub|type~="z3998:letter"] header{
+	margin-bottom: 1em;
+}
+
+[epub|type~="z3998:letter"] footer{
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:salutation"],
+[epub|type~="z3998:recipient"]{
+	font-variant: small-caps;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:valediction"]{
+	text-align: right;
+}
+
+[epub|type~="z3998:sender"]{
+	font-variant: small-caps;
+	text-align: right;
+}
+
+.signature{
+	font-variant: small-caps;
+}
