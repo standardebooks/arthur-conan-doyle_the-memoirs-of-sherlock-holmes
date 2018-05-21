@@ -48,8 +48,7 @@
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/834</dc:source>
-		<dc:source>https://en.wikisource.org/wiki/The_Adventure_of_the_Cardboard_Box</dc:source>
-		<dc:source>https://en.wikisource.org/wiki/The_Memoirs_of_Sherlock_Holmes/The_Resident_Patient</dc:source>
+		<dc:source>https://hdl.handle.net/2027/uc1.b2892350</dc:source>
 		<dc:source>https://archive.org/details/memoirsofsherloc00doylrich</dc:source>
 		<dc:source>https://archive.org/details/hislastbowaremi01doylgoog</dc:source>
 		<meta property="se:production-notes">This edition includes “The Adventure of the Cardboard Box,” which was taken from a separate Gutenberg transcription. Texts at Wikisource were used to confirm the original magazine text of the start of this story and that of “The Resident Patient,” as the latter included a passage from the former when published in the book collection. / In “The Gloria Scott,” please do not allow modernize-spelling to concatenate ‘fly-paper’ into a single word, as this wrecks the secret code.</meta>
