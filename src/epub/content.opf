@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/arthur-conan-doyle/the-memoirs-of-sherlock-holmes</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2018-05-23T22:15:36Z</dc:date>
+		<meta property="dcterms:modified">2018-05-23T22:15:36Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,7 +43,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Memoirs of Sherlock Holmes&lt;/i&gt;, published in 1894, is the second collection of Sherlock Holmes stories published in book form. All of the stories included in the collection previously appeared in &lt;i&gt;The Strand Magazine&lt;/i&gt; between 1892 and 1893. They purport to be the accounts given by Dr. John Watson of the more remarkable cases in which his friend Mr. Sherlock Holmes becomes involved in his role as a consulting detective.&lt;/p&gt;
 			&lt;p&gt;This collection has several memorable features. The first British edition omitted the story “The Adventure of the Cardboard Box” which appeared in &lt;i&gt;The Strand&lt;/i&gt; in 1893. This story did appear in the very first American edition of the collection, immediately following “Silver Blaze,” but it was quickly replaced by a revised edition which omitted it. Apparently these omissions were at the specific request of the author, who was concerned that its inclusion of the theme of adultery would make it unsuitable for younger readers. The story was, however, eventually included in the later collection &lt;i&gt;His Last Bow&lt;/i&gt;, but it is out of chronological position there. In this Standard Ebooks edition (as in most modern British editions), we have included this story to restore it to its correct chronological place in the Holmes canon.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Memoirs of Sherlock Holmes&lt;/i&gt; is also notable because by this time Doyle had tired of the Holmes character and decided to kill him off, so that this was intended to be the last Holmes collection ever to be published. It contains several of the best-known Holmes stories, including “Silver Blaze;” “The Musgrave Ritual;” “The Greek Interpreter,” which introduces Sherlock’s brother Mycroft; and of course “The Final Problem” in which Holmes struggles with his nemesis Professor Moriarty.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Memoirs of Sherlock Holmes&lt;/i&gt; is also notable because by this time Doyle had tired of the Holmes character and decided to kill him off, so that this was intended to be the last Holmes collection ever to be published. It contains several of the best-known Holmes stories, including “Silver Blaze,” “The Musgrave Ritual,” and “The Greek Interpreter,” which introduces Sherlock’s brother Mycroft; and of course “The Final Problem” in which Holmes struggles with his nemesis Professor Moriarty.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
@@ -52,8 +52,8 @@
 		<dc:source>https://hdl.handle.net/2027/njp.32101076380730?urlappend=%3Bseq=69</dc:source>
 		<dc:source>https://archive.org/details/memoirsofsherloc00doylrich</dc:source>
 		<meta property="se:production-notes">This edition includes “The Adventure of the Cardboard Box,” which was taken from a separate Gutenberg transcription. HathiTrust page scans of the original magazine publications of this story and that of “The Resident Patient,” have been consulted as the latter incorporated a passage from the former when published in the book collection. / In “The Gloria Scott,” please do not allow modernize-spelling to concatenate ‘fly-paper’ into a single word, as this wrecks the secret code.</meta>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">96103</meta>
+		<meta property="se:reading-ease.flesch">80.11</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Memoirs_of_Sherlock_Holmes</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-conan-doyle_the-memoirs-of-sherlock-holmes</meta>
 		<dc:creator id="author">Arthur Conan Doyle</dc:creator>
@@ -85,6 +85,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
