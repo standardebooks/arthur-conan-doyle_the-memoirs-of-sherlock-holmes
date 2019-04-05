@@ -49,8 +49,7 @@
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/834</dc:source>
-		<dc:source>https://hdl.handle.net/2027/uc1.b2892350?urlappend=%3Bseq=136</dc:source>
-		<dc:source>https://hdl.handle.net/2027/njp.32101076380730?urlappend=%3Bseq=69</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/000642318</dc:source>
 		<dc:source>https://archive.org/details/memoirsofsherloc00doylrich</dc:source>
 		<meta property="se:production-notes">This edition includes “The Adventure of the Cardboard Box,” which was taken from a separate Gutenberg transcription. HathiTrust page scans of the original magazine publications of this story and that of “The Resident Patient,” have been consulted as the latter incorporated a passage from the former when published in the book collection. / In “The Gloria Scott,” please do not allow modernize-spelling to concatenate “fly-paper” into a single word, as this wrecks the secret code.</meta>
 		<meta property="se:word-count">96110</meta>
