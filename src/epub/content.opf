@@ -26,27 +26,28 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Memoirs of Sherlock Holmes</dc:title>
 		<meta property="file-as" refines="#title">Memoirs of Sherlock Holmes, The</meta>
 		<dc:subject id="subject-1">Holmes, Sherlock (Fictitious character) -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Private investigators -- England -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Detective and mystery stories, English</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/834</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/834</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/834</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008109474</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85037269</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
 		<meta property="se:subject">Shorts</meta>
 		<meta property="se:collection">Sherlock Holmes</meta>
 		<dc:description id="description">The world’s first consulting detective and his companion investigate further crimes and mysteries, culminating in a life-or-death struggle with an evil nemesis.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Memoirs of Sherlock Holmes&lt;/i&gt;, published in 1894, is the second collection of Sherlock Holmes stories published in book form. All of the stories included in the collection previously appeared in &lt;i&gt;The Strand Magazine&lt;/i&gt; between 1892 and 1893. They purport to be the accounts given by Dr. John Watson of the more remarkable cases in which his friend Mr. Sherlock Holmes becomes involved in his role as a consulting detective.&lt;/p&gt;
 			&lt;p&gt;This collection has several memorable features. The first British edition omitted the story “The Adventure of the Cardboard Box” which appeared in &lt;i&gt;The Strand&lt;/i&gt; in 1893. This story did appear in the very first American edition of the collection, immediately following “Silver Blaze,” but it was quickly replaced by a revised edition which omitted it. Apparently these omissions were at the specific request of the author, who was concerned that its inclusion of the theme of adultery would make it unsuitable for younger readers. The story was, however, eventually included in the later collection &lt;i&gt;His Last Bow&lt;/i&gt;, but it is out of chronological position there. In this Standard Ebooks edition (as in most modern British editions), we have included this story to restore it to its correct chronological place in the Holmes canon.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Memoirs of Sherlock Holmes&lt;/i&gt; is also notable because by this time Doyle had tired of the Holmes character and decided to kill him off, so that this was intended to be the last Holmes collection ever to be published. It contains several of the best-known Holmes stories, including “Silver Blaze,” “The Musgrave Ritual,” and “The Greek Interpreter,” which introduces Sherlock’s brother Mycroft; and of course “The Final Problem” in which Holmes struggles with his nemesis Professor Moriarty.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/834</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000642318</dc:source>
