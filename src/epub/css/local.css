@@ -9,7 +9,7 @@
 
 [epub|type~="z3998:letter"] header{
 	margin-bottom: 1em;
-	text-align: left;
+	text-align: initial;
 }
 
 footer{
