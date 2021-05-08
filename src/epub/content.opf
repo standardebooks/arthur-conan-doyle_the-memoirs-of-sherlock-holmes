@@ -58,7 +58,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/834</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000642318</dc:source>
 		<dc:source>https://archive.org/details/memoirsofsherloc00doylrich</dc:source>
-		<meta property="se:production-notes">This edition includes “The Adventure of the Cardboard Box,” which was taken from a separate Gutenberg transcription. HathiTrust page scans of the original magazine publications of this story and that of “The Resident Patient,” have been consulted as the latter incorporated a passage from the former when published in the book collection. / In “The Gloria Scott,” please do not allow modernize-spelling to concatenate “fly-paper” into a single word, as this wrecks the secret code.</meta>
+		<meta property="se:production-notes">This edition restores the story “The Adventure of the Cardboard Box” to the collection. Doyle had this story removed from later book editions of the “The Memoirs of Sherlock Holmes” because it deals with adultery, a subject he thought unsuitable for younger readers. Note that a passage taken from this story was inserted into the story “The Resident Patient” in those book editions. Our Standard Ebooks edition returns this passage to its original location in “The Adventure of the Cardboard Box” and restores “The Resident Patient” to the text of the original magazine publication. / In “The Gloria Scott,” please do not allow modernize-spelling to concatenate “fly-paper” into a single word, as this wrecks the secret code.</meta>
 		<meta property="se:word-count">96113</meta>
 		<meta property="se:reading-ease.flesch">80.01</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Memoirs_of_Sherlock_Holmes</meta>
