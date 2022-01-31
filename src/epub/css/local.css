@@ -2,9 +2,9 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 [epub|type~="se:letter.dateline"]{
+	font-style: italic;
 	margin-top: 1em;
 	text-align: right;
-	font-style: italic;
 }
 
 [epub|type~="z3998:letter"] header{
