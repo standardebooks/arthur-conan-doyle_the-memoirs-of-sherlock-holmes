@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="silver-blaze.xhtml">
+		<ignore>
+			<code>y-035</code>
+			<reason>Matched text is an abbreviation.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
