@@ -1,0 +1,3 @@
+This edition restores the story “The Adventure of the Cardboard Box” to the collection. Doyle had this story removed from later book editions of the “The Memoirs of Sherlock Holmes” because it deals with adultery, a subject he thought unsuitable for younger readers. Note that a passage taken from this story was inserted into the story “The Resident Patient” in those book editions. Our Standard Ebooks edition returns this passage to its original location in “The Adventure of the Cardboard Box” and restores “The Resident Patient” to the text of the original magazine publication.
+
+In “The Gloria Scott,” please do not allow modernize-spelling to concatenate “fly-paper” into a single word, as this wrecks the secret code.
